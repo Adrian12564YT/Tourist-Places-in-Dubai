@@ -1,0 +1,16 @@
+img{
+    height: 300px;
+    width: 200px;
+}
+table{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#TD{
+    padding-top: 120px;
+}
+body{
+    background-color: grey;
+}
